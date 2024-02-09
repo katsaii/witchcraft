@@ -1,0 +1,41 @@
+{
+  "resourceType": "GMProject",
+  "resourceVersion": "1.7",
+  "name": "witchcraft",
+  "AudioGroups": [
+    {"resourceType":"GMAudioGroup","resourceVersion":"1.3","name":"audiogroup_default","targets":-1,},
+  ],
+  "configs": {
+    "children": [],
+    "name": "Default",
+  },
+  "defaultScriptType": 1,
+  "Folders": [
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Test","folderPath":"folders/Test.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Witchcraft","folderPath":"folders/Witchcraft.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"ui","folderPath":"folders/Witchcraft/ui.yy",},
+  ],
+  "IncludedFiles": [],
+  "isEcma": false,
+  "LibraryEmitters": [],
+  "MetaData": {
+    "IDEVersion": "2023.4.0.84",
+  },
+  "resources": [
+    {"id":{"name":"scr_witchcraft_validation","path":"scripts/scr_witchcraft_validation/scr_witchcraft_validation.yy",},},
+    {"id":{"name":"scr_witchcraft_ui","path":"scripts/scr_witchcraft_ui/scr_witchcraft_ui.yy",},},
+    {"id":{"name":"scr_witchcraft_task","path":"scripts/scr_witchcraft_task/scr_witchcraft_task.yy",},},
+    {"id":{"name":"scr_witchcraft_ui_elements","path":"scripts/scr_witchcraft_ui_elements/scr_witchcraft_ui_elements.yy",},},
+    {"id":{"name":"scr_witchcraft_camera","path":"scripts/scr_witchcraft_camera/scr_witchcraft_camera.yy",},},
+    {"id":{"name":"scr_witchcraft_toolbox","path":"scripts/scr_witchcraft_toolbox/scr_witchcraft_toolbox.yy",},},
+    {"id":{"name":"scr_witchcraft_chanel","path":"scripts/scr_witchcraft_chanel/scr_witchcraft_chanel.yy",},},
+    {"id":{"name":"obj_witchcraft_ui_menu","path":"objects/obj_witchcraft_ui_menu/obj_witchcraft_ui_menu.yy",},},
+    {"id":{"name":"rm_test","path":"rooms/rm_test/rm_test.yy",},},
+  ],
+  "RoomOrderNodes": [
+    {"roomId":{"name":"rm_test","path":"rooms/rm_test/rm_test.yy",},},
+  ],
+  "TextureGroups": [
+    {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
+  ],
+}

@@ -1,0 +1,15 @@
+{
+  "FolderOrderSettings": [
+    {"name":"Test","order":10,"path":"folders/Test.yy",},
+    {"name":"Witchcraft","order":12,"path":"folders/Witchcraft.yy",},
+    {"name":"ui","order":5,"path":"folders/Witchcraft/ui.yy",},
+  ],
+  "ResourceOrderSettings": [
+    {"name":"scr_witchcraft_ui","order":1,"path":"scripts/scr_witchcraft_ui/scr_witchcraft_ui.yy",},
+    {"name":"scr_witchcraft_task","order":2,"path":"scripts/scr_witchcraft_task/scr_witchcraft_task.yy",},
+    {"name":"scr_witchcraft_camera","order":4,"path":"scripts/scr_witchcraft_camera/scr_witchcraft_camera.yy",},
+    {"name":"scr_witchcraft_toolbox","order":1,"path":"scripts/scr_witchcraft_toolbox/scr_witchcraft_toolbox.yy",},
+    {"name":"scr_witchcraft_chanel","order":3,"path":"scripts/scr_witchcraft_chanel/scr_witchcraft_chanel.yy",},
+    {"name":"obj_witchcraft_ui_menu","order":2,"path":"objects/obj_witchcraft_ui_menu/obj_witchcraft_ui_menu.yy",},
+  ],
+}

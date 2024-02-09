@@ -1,0 +1,1 @@
+/// @desc Suppress `draw_self()`.
